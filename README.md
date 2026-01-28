@@ -4,7 +4,7 @@ An interactive **Artworks Explorer** built with **Vite ⚡ | React + TypeScript 
 
 This project fetches artworks from the [Art Institute of Chicago API](https://api.artic.edu/api/v1/artworks?page=1) and displays them in a **server-side paginated table** with row selection that persists across pages.
 
-🌐 **Deployed Link**: [Click Here to Explore 🔗](https://growme-assignment-uzerqureshi.netlify.app)
+🌐 **Deployed Link**: [Click Here to Explore 🔗](https://grow-me-assignment-artwork.vercel.app/)
 
 📂 **GitHub Repo**: [View Repository 💻](https://github.com/08Uzair/GrowMe_Assignment_Artwork.git)
 
